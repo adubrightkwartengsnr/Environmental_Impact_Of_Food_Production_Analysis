@@ -88,24 +88,24 @@ xploratory Data Analysis (EDA) is the heart of any data-driven project — it’
    - Normality of Datasets: Most of the variables did not follow a normal distribution, especially those related to emissions and water usage. These variables were right-skewed due to the extreme     environmental impacts of certain food products. Understanding this helped guide the selection of appropriate statistical methods (such as the Mann-Whitney U-test) for hypothesis testing later in the project.
 2. _Univariate Analysis_:
   <p align="center">
-  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions" width="45%" />
-  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation" width="45%" />
+  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions"/>
+  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation"/>
   </p>
 
   <p align="center">
-  <img src="./utils/pairplot.png" alt="Pairwise Relationship" width="45%" />
-  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity" width="45%" />
+  <img src="./utils/pairplot.png" alt="Pairwise Relationship"/>
+  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity"/>
   </p>
 
 3. _Bivariate Analysis_:
   <p align="center">
-  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions" width="45%" />
-  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation" width="45%" />
+  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions"/>
+  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation"/>
   </p>
 
   <p align="center">
-  <img src="./utils/pairplot.png" alt="Pairwise Relationship" width="45%" />
-  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity" width="45%" />
+  <img src="./utils/pairplot.png" alt="Pairwise Relationship" />
+  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity"/>
   </p>
 
 4. _Food Categories by Carbon Emissions_:
