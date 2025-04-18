@@ -1,4 +1,4 @@
-![Getting Started](../utils/dashboard.png)
+![Getting Started](./utils/dashboard.png)
 <a name="readme-top"></a>
 
 <div align="center">
