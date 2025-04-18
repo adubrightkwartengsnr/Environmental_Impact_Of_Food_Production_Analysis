@@ -87,15 +87,27 @@ xploratory Data Analysis (EDA) is the heart of any data-driven project — it’
    - Presence of Outliers: Outliers were detected in several key variables, particularly in carbon emissions and land use. For example, beef and lamb showed extremely high values compared to other food products. Rather than removing these outliers, I retained them to preserve the authenticity of the environmental impact each product represents, since these values are real and relevant for sustainability discussions.
    - Normality of Datasets: Most of the variables did not follow a normal distribution, especially those related to emissions and water usage. These variables were right-skewed due to the extreme     environmental impacts of certain food products. Understanding this helped guide the selection of appropriate statistical methods (such as the Mann-Whitney U-test) for hypothesis testing later in the project.
 2. _Univariate Analysis_:
-   - ![Boxplot of Columns with No-Null Values](./utils/boxplot1.png)
-   - ![Boxplot of Columns with Null Values](./utils/boxplot2.png)
-   - ![Custom EDA](./utils/custom_eda.png)
-   - ![Land Use Correlation](./utils/custom_eda_2.png)
+  <p align="center">
+  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions" width="45%" />
+  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation" width="45%" />
+  </p>
+
+  <p align="center">
+  <img src="./utils/pairplot.png" alt="Pairwise Relationship" width="45%" />
+  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity" width="45%" />
+  </p>
+
 3. _Bivariate Analysis_:
-   - ![Food Product Vs Carbon Emissions](./utils/top_10_food_category.png)
-   - ![Land Use Correlation](./utils/land_use_corr_plot.png)
-   - ![Pairwise Relationship](./utils/pairplot.png)
-   - ![Land Use Biodervisity](./utils/scatter_plot.png)
+  <p align="center">
+  <img src="./utils/top_10_food_category.png" alt="Food Product Vs Carbon Emissions" width="45%" />
+  <img src="./utils/land_use_corr_plot.png" alt="Land Use Correlation" width="45%" />
+  </p>
+
+  <p align="center">
+  <img src="./utils/pairplot.png" alt="Pairwise Relationship" width="45%" />
+  <img src="./utils/scatter_plot.png" alt="Land Use Biodiversity" width="45%" />
+  </p>
+
 4. _Food Categories by Carbon Emissions_:
    - ![Food Categories by Carbon Emissions](./utils/top_10_food_category.png)
    - From the analysis, meat production emerges as the leading contributor to carbon emissions, accounting for approximately 118.5 kgCO₂eq, followed by beverage production at 36.6 kgCO₂eq, and oils at 26.8 kgCO₂eq.
